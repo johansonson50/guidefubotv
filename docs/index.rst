@@ -6,7 +6,7 @@ How to Contact FuboTV Customer Service?
    :caption: Contents: 
 
 
-.. image:: https://tvroku.readthedocs.io/en/latest/_images/service.gif
+.. image:: https://blogger.googleusercontent.com/img/a/AVvXsEgGS7IJG7S7bGlzd_VWVpgYUVPHRrqk2KYHKQeDntRzMzcayzZmYwCtEdGkcN4LfnB-cLxHWPjRGA7YGi6UfWnf6dykIpwXkwlAlIVPOmB6XIBaPYPpRRy-B1DDVBg1zwDxRltLFQ4ls1RMeuT_vBBJMQoqrbUtHplX0CDKxEj7OyGgt56dH3Do5TTrohA=s185
    :alt: My Project Logo
    :width: 400px
    :align: center
